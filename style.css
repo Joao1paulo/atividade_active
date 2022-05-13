@@ -1,0 +1,156 @@
+body{
+    background-color: rgb(255, 255, 255);
+}    
+section{
+    padding: 0px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#desenho1{
+  background-image: url('../CSS/imagens/imagens/jin.png');
+  background-size: 100% 100%;
+  width:400px;
+  height:400px;
+  border:10px solid #ff0000;
+  max-width: 783px;
+}
+#desenho1:active{
+    background-image: url('../CSS/imagens/imagens/kazuya.png');
+    width:400px;
+    height:400px;
+    background-size: 100% 100%;
+    border:10px solid #ff9100;
+    transform:scale(0.9);
+}
+#desenho2{
+    background-image: url('../CSS/imagens/imagens/marshaw.png');
+    width:400px;
+    height:400px;
+    background-size: 100% 100%;
+    border:10px solid #ff7b00;
+}
+#desenho2:active{
+    background-image: url('../CSS/imagens/imagens/forest.jpg');
+    width:400px;
+    height:400px;
+    background-size: 100% 100%;
+    border:10px solid #fbff00;
+    transform:scale(0.9);
+}
+#desenho3{
+    background-image: url('../CSS/imagens/imagens/yoshimitsu.png');
+    width:400px;
+    height:400px;
+    background-size: 100% 100%;
+    border:10px solid #ff0000;
+}
+#desenho3:active{
+    background-image: url('../CSS/imagens/imagens/kunimistu.png');
+    width:400px;
+    height:400px;
+    background-size: 100% 100%;
+    border:10px solid #48ff00;
+    transform:scale(0.9);
+}
+#desenho4{
+    background-image: url('../CSS/imagens/imagens/jinpachi.jpg.opdownload');
+    width:400px;
+    height:400px;
+    background-size: 100% 100%;
+    border:10px solid #ff0055;
+}
+#desenho4:active{
+    background-image: url('../CSS/imagens/imagens/heihachi.png');
+    width:400px;
+    height:400px;
+    background-size: 100% 100%;
+    border:10px solid #b80229;
+    transform:scale(0.9);
+}
+#desenho5{
+    background-image:url('../CSS/imagens/imagens/king.jpg');
+    width:400px;
+    height:400px;
+    background-size: 100% 100%;
+    border:10px solid #e5ff00;
+}
+#desenho5:active{
+    background-image: url('../CSS/imagens/imagens/armor\ king.jpg');
+    width:400px;
+    height:400px;
+    border:10px solid #000000;
+    transform:scale(0.9);
+}
+#desenho6{
+    background-image: url('../CSS/imagens/imagens/eddy.jpg');
+    width:400px;
+    height:400px;
+    background-size: 100% 100%;
+    border:10px solid #26a300;
+}
+#desenho6:active{
+    background-image: url('../CSS/imagens/imagens/tiger.png');
+    width:400px;
+    height:400px;
+    background-size: 100% 100%;
+    border:10px solid #fd0061;
+    transform:scale(0.9);
+}
+#desenho7{
+    background-image:url('../CSS/imagens/imagens/jack.jpg');
+    width:400px;
+    height:400px;
+    background-size: 100% 100%;
+    border:10px solid rgb(110, 110, 110);
+}
+#desenho7:active{
+    background-image:url('../CSS/imagens/imagens/p.jack.png');
+    width:400px;
+    height:400px;
+    background-size: 100% 100%;
+    border:10px solid #3e583e;
+    transform:scale(0.9);
+}
+
+#desenho8{
+    background-image:url('../CSS/imagens/imagens/mokujin.jpg.opdownload');
+    border:10px solid #ff0000;
+    background-size: 100% 100%;
+    max-width: 400px;
+}
+
+#desenho8:active{
+    background-image:url('../CSS/imagens/imagens/combot.jpg');
+    border:10px solid #31c360;
+    background-size: 100% 100%;
+    transform:scale(0.9);
+}
+
+#desenho9{
+    background-image:url('../CSS/imagens/imagens/angel.png');
+    border:10px solid #ff0000;
+    background-size: 100% 100%;
+    max-width: 400px;
+}
+
+#desenho9:active{
+    background-image:url('../CSS/imagens/imagens/ogre.png');
+    border:10px solid #31c360;
+    background-size: 100% 100%;
+    transform:scale(0.9);
+}
+
+#desenho10{
+    background-image:url('../CSS/imagens/imagens/roger\ jr.png');
+    border:10px solid #ff0000;
+    background-size: 100% 100%;
+    max-width: 400px;
+}
+
+#desenho10:active{
+    background-image:url('../CSS/imagens/imagens/alex.jpg');
+    border:10px solid #31c360;
+    background-size: 100% 100%; 
+    transform:scale(0.9);
+}
